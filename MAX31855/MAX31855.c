@@ -2,7 +2,7 @@
  * MAX31855.c
  *
  *  Created on: Mar 3, 2022
- *      Author: gabri
+ *      Author: AppendixPi
  */
 
 #include "MAX31855.h"
