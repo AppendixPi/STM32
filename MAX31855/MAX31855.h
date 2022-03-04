@@ -2,7 +2,7 @@
  * MAX31855.h
  *
  *  Created on: Mar 3, 2022
- *      Author: gabri
+ *      Author: AppendixPi
  */
 
 #ifndef INC_MAX31855_H_
