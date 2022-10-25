@@ -52,6 +52,7 @@ void ssd1306_SetCursor(uint8_t x, uint8_t y);
 //Custom function
 void ssd1306_PrintLogo();
 void ssd1306_FillFromTo(uint16_t from_, uint16_t to_,SSD1306_COLOR color);
+uint8_t ssd1306_melt_effect(uint8_t direction);
 char ssd1306_SlowWriteString(char* str, FontDef Font, SSD1306_COLOR color, uint16_t delay);
 void ssd1306_gradFill(SSD1306_COLOR color, uint16_t w_delay);
 char ssd1306_WriteSpecialChar(FontDef Font, SSD1306_COLOR color);
